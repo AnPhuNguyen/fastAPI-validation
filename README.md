@@ -1,4 +1,4 @@
-*** this is in tenomad inc. internship
+**this was made while in tenomad inc. internship**
 
 here to make general validation api with sql server using query.
 
